@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     // 获取页面元素
     const searchInput = document.getElementById("nameInput");
-    const creditInput = document.getElementById("creditInput"); // 添加获取信用号输入框
     const searchResults = document.getElementById("searchResults"); // 修正元素 ID
 
     // 添加输入事件监听器
@@ -11,11 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // 发送搜索请求到服务器
         sendSearchRequest(keyword);
-    });
-
-    creditInput.addEventListener("input", function () {
-        const creditKeyword = creditInput.value;
-        // 发送搜索请求到服务器（如果需要）
     });
 
     function displaySearchResults(results) {

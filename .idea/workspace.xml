@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5c89f21-78a9-4647-8d1d-ee2951678217" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/esDem/src/main/resources/public/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esDem/src/main/resources/public/js/search.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esDem/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/esDem/src/main/resources/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esDem/target/classes/dem/es/config/ElkConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/esDem/target/classes/dem/es/config/ElkConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esDem/target/classes/dem/es/rule/feed.class" beforeDir="false" afterPath="$PROJECT_DIR$/esDem/target/classes/dem/es/rule/feed.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +110,7 @@
       <workItem from="1695861592444" duration="7078000" />
       <workItem from="1696857030995" duration="1967000" />
       <workItem from="1696901571046" duration="3007000" />
-      <workItem from="1696907945965" duration="301000" />
+      <workItem from="1696907945965" duration="607000" />
     </task>
     <servers />
   </component>
